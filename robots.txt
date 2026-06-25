@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ipcalculatorpro.vercel.app/sitemap.xml
